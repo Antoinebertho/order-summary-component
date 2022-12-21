@@ -48,6 +48,8 @@ h1 {
   /* justify-content: space-between; */
   padding: 10px;
   border-radius: 30px;
+  grid: auto;
+  align-items: center;
 }
 
 .detail img {
